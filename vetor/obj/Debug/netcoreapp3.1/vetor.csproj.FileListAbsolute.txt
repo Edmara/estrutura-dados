@@ -1,0 +1,13 @@
+/home/edmara/unipe/estrutura-dados/vetor/bin/Debug/netcoreapp3.1/vetor
+/home/edmara/unipe/estrutura-dados/vetor/bin/Debug/netcoreapp3.1/vetor.deps.json
+/home/edmara/unipe/estrutura-dados/vetor/bin/Debug/netcoreapp3.1/vetor.runtimeconfig.json
+/home/edmara/unipe/estrutura-dados/vetor/bin/Debug/netcoreapp3.1/vetor.runtimeconfig.dev.json
+/home/edmara/unipe/estrutura-dados/vetor/bin/Debug/netcoreapp3.1/vetor.dll
+/home/edmara/unipe/estrutura-dados/vetor/bin/Debug/netcoreapp3.1/vetor.pdb
+/home/edmara/unipe/estrutura-dados/vetor/obj/Debug/netcoreapp3.1/vetor.csprojAssemblyReference.cache
+/home/edmara/unipe/estrutura-dados/vetor/obj/Debug/netcoreapp3.1/vetor.AssemblyInfoInputs.cache
+/home/edmara/unipe/estrutura-dados/vetor/obj/Debug/netcoreapp3.1/vetor.AssemblyInfo.cs
+/home/edmara/unipe/estrutura-dados/vetor/obj/Debug/netcoreapp3.1/vetor.csproj.CoreCompileInputs.cache
+/home/edmara/unipe/estrutura-dados/vetor/obj/Debug/netcoreapp3.1/vetor.dll
+/home/edmara/unipe/estrutura-dados/vetor/obj/Debug/netcoreapp3.1/vetor.pdb
+/home/edmara/unipe/estrutura-dados/vetor/obj/Debug/netcoreapp3.1/vetor.genruntimeconfig.cache
